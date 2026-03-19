@@ -2,17 +2,12 @@
   max-width: 800px;
   margin: auto;
   padding: 40px;
-  font-family: Arial;
 }
 
-h1 {
+.title {
   font-size: 3rem;
-  color: #222;
 }
 
-section {
+.section {
   margin-top: 20px;
-  padding: 20px;
-  background: #f3f3f3;
-  border-radius: 12px;
 }
