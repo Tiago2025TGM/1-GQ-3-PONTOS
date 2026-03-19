@@ -4,3 +4,9 @@ body {
   background: #ffffff;
   font-family: Arial, sans-serif;
 }
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
