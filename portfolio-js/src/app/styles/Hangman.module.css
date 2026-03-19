@@ -1,0 +1,39 @@
+.container {
+  text-align: center;
+  padding: 30px;
+}
+
+h2 {
+  font-size: 2.5rem;
+  letter-spacing: 8px;
+}
+
+input {
+  padding: 10px;
+  font-size: 18px;
+  margin: 10px;
+  border-radius: 6px;
+}
+
+button {
+  padding: 10px 20px;
+  background: #0070f3;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0055aa;
+}
+
+.win {
+  color: green;
+  font-weight: bold;
+}
+
+.lose {
+  color: red;
+  font-weight: bold;
+}
